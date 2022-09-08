@@ -1,5 +1,10 @@
 ## Colored Markers
-This set of colored markers was designed using plain CSS. Markers are a great opportunity to explore different color systems like RGB, HSL, and Hex.
+This set of colored markers was designed using plain CSS. Markers are a great opportunity to explore different color systems like RGB, HSL, and Hex.  
+
+<img src="https://github.com/DexTheFish/colored-markers/blob/master/markers.png?raw=true" width="500" height="300">
+
+
+
 
 
 ## Tutorial
