@@ -11,13 +11,15 @@ h1 {
   margin: 10px auto;
 }
 .red {
-  background: linear-gradient(180deg, rgb(127,0,0) 0%, rgb(255,0,0) 50%, rgb(127,0,0) 100%)
+  background: linear-gradient(180deg, rgb(127,0,0) 0%, rgb(255,0,0) 50%, rgb(127,0,0) 100%);
+  box-shadow: 5px 5px red;
 }
 .green {
   background: linear-gradient(#009900, #00FF00, #009900);
 }
 .blue {
   background: linear-gradient(hsl(240, 75%, 25%), hsl(240, 100%, 50%), hsl(240, 75%, 25%));
+  box-shadow: -5px -5px blue;
 }
 .sleeve {
   display: inline-block;
