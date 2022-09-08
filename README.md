@@ -1,19 +1,9 @@
 ## Colored Markers
+This set of colored markers was designed using plain CSS. Markers are a great opportunity to explore different color systems like RGB, HSL, and Hex.
 
-[tutorial](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-1)
+
+## Tutorial
+FreeCodeCamp has a great [tutorial](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-1) on how to build a similar product.
 
 ## Colors in rgb model
 
-### Primary Colors
-
-red = (255, 0, 0)
-
-### Secondary Colors
-
-magenta = (255, 0, 255)
-
-### Tertiary Colors
-
-violet = (127, 0, 255)
-
-Notice there are three primary/secondary and six tertiary colors.
